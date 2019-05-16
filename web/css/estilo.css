@@ -1,3 +1,16 @@
 .slider-info h4 {
     font-size:3em !important;
 }
+
+.service-info {
+    padding-top: 0 !important;
+}
+
+.service{
+	background-color: black !important;
+	background-image: none !important;
+}
+
+#titleServices{
+	color: white !important;
+}
