@@ -7,10 +7,24 @@
 }
 
 .service{
-	background-color: black !important;
+	background-color: #2f2f2f !important;
 	background-image: none !important;
 }
 
 #titleServices{
 	color: white !important;
+}
+
+.about,.clients,.footer{
+    background-color: #FFEB3B;
+}
+
+.contact{
+	background-color: #2f2f2f !important;
+	background-image: none !important;
+}
+
+.info-sub-w3 p{
+	color: #2f2f2f !important;
+	font-size: 20px !important;
 }
