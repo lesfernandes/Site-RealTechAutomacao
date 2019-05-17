@@ -1037,7 +1037,7 @@ label.header {
     -ms-transform: scale(0);
 }
 .ehover14:hover .overlay {
-    background-color: rgba(24, 106, 154, 0.68);
+    background-color: #2f2f2f8c;
 }
 .ehover14 .button  {
 	color:	#FFF;
