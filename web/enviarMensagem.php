@@ -15,8 +15,7 @@
 		if(mail($para, $assunto, $corpo, $cabecalho)){
 			echo "<script>alert('Email enviado com sucesso!'); window.location.href='index.php';</script>";
 		}else{
-			echo "<script>alert('O email não pode ser enviado!'); window.location.href='index.php';</script>"
+			echo "<script>alert('O email não pode ser enviado!'); window.location.href='index.php';</script>";
 		}
-
-
+	}
 ?>
