@@ -154,7 +154,71 @@
       </div>
       <!--//about -->
       <!--services-->
-      
+         <!--<div class="service-video">
+         <div class="service" id="services">
+            <div class="container">
+               <h3 class="title">Services</h3>
+               <div class="video-left" id="video">
+                  <iframe src="https://player.vimeo.com/video/61768275?" allowfullscreen></iframe>
+               </div>
+               <div class="banner_bottom_grids info_testimonial_grids">
+                  <div class="service-info">
+                     <h5>In eu auctor felis, id eleifend dolor Integer bibendum <br>dictum erat, 
+                        non laoreet dolor
+                     </h5>
+                  </div>
+                  <section class="row center slider">
+                     <div class="col-lg-4 leits_ser-img_grid">
+                        <div class="serv-slider_grid">
+                           <div class="slide-img">
+                              <img src="images/s1.jpg" alt=" " class="img-responsive" />
+                           </div>
+                           <div class="service_grid">
+                              <p>In eu auctor felis, id eleifend dolor Integer bibendum dictum erat, 
+                                 non laoreet dolor.
+                                 Integer bibendum dictum erat, 
+                                 non laoreet dolor
+                              </p>
+                              <h4>Dolor Integer</h4>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 leits_ser-img_grid">
+                        <div class="serv-slider_grid">
+                           <div class="slide-img">
+                              <img src="images/s2.jpg" alt=" " class="img-responsive" />
+                           </div>
+                           <div class="service_grid">
+                              <p>In eu auctor felis, id eleifend dolor Integer bibendum dictum erat, 
+                                 non laoreet dolor.
+                                 Integer bibendum dictum erat, 
+                                 non laoreet dolor
+                              </p>
+                              <h4>Dolor Integer</h4>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 leits_ser-img_grid">
+                        <div class="serv-slider_grid">
+                           <div class="slide-img">
+                              <img src="images/s3.jpg" alt=" " class="img-responsive" />
+                           </div>
+                           <div class="service_grid">
+                              <p>In eu auctor felis, id eleifend dolor Integer bibendum dictum erat, 
+                                 non laoreet dolor.
+                                 Integer bibendum dictum erat, 
+                                 non laoreet dolor
+                              </p>
+                              <h4>Dolor Integer</h4>
+                           </div>
+                        </div>
+                     </div>
+                  </section>
+               </div
+                  >
+            </div>
+         </div>
+      </div>-->
          <div class="service" id="services">
             <div class="container">
                <div class="w3ls_banner_bottom_grids agileinfo_testimonial_grids">
@@ -228,82 +292,7 @@
             </div>
             </div>
          </div>
-      <!--//services-->
-      <!-- gallery -->
-      <!--<div id="gallery" class="gallery">
-         <div class="container">
-            <h3 class="title clr" >Portfolio</h3>
-            <div class="row agile_gallery_grids">
-               <div class="col-lg-4 col-md-6 col-sm-6 agile_gallery_grid">
-                  <div class="hover ehover14">
-                     <a href="images/g1.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-                        <img src="images/g1.jpg" alt=" " class="img-responsive" />
-                        <div class="overlay">
-                           <h4>LECCY</h4>
-                           <div class="info nullbutton button">Full View</div>
-                        </div>
-                     </a>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6 col-sm-6 agile_gallery_grid">
-                  <div class="hover ehover14">
-                     <a href="images/g2.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-                        <img src="images/g2.jpg" alt=" " class="img-responsive" />
-                        <div class="overlay">
-                           <h4>LECCY</h4>
-                           <div class="info nullbutton button">Full View</div>
-                        </div>
-                     </a>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6 col-sm-6 agile_gallery_grid">
-                  <div class="hover ehover14">
-                     <a href="images/g3.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-                        <img src="images/g3.jpg" alt=" " class="img-responsive" />
-                        <div class="overlay">
-                           <h4>LECCY</h4>
-                           <div class="info nullbutton button">Full View</div>
-                        </div>
-                     </a>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6 col-sm-6 agile_gallery_grid grid1">
-                  <div class="hover ehover14">
-                     <a href="images/g4.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-                        <img src="images/g4.jpg" alt=" " class="img-responsive" />
-                        <div class="overlay">
-                           <h4>LECCY</h4>
-                           <div class="info nullbutton button">Full View</div>
-                        </div>
-                     </a>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6 col-sm-6 agile_gallery_grid grid1">
-                  <div class="hover ehover14">
-                     <a href="images/g5.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-                        <img src="images/g5.jpg" alt=" " class="img-responsive" />
-                        <div class="overlay">
-                           <h4>LECCY</h4>
-                           <div class="info nullbutton button">Full View</div>
-                        </div>
-                     </a>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6 col-sm-6 agile_gallery_grid grid1">
-                  <div class="hover ehover14">
-                     <a href="images/g6.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-                        <img src="images/g6.jpg" alt=" " class="img-responsive" />
-                        <div class="overlay">
-                           <h4>LECCY</h4>
-                           <div class="info nullbutton button">Full View</div>
-                        </div>
-                     </a>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>-->
-      <!-- //gallery --> 
+      <!--//services--> 
       <!--clients-->
       <div class="clients" id="clients">
          <div class="container">
@@ -340,13 +329,13 @@
                   </div>
                </div>
          </div>
-         <div class="row">
-            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid">
+         <div class="row clients-says-agile">
+            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid grid1">
                <div class="clientes">
                   <img src="images/clientes/redbull.png" alt=" " class="img-responsive" />
                </div>
             </div>
-            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid">
+            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid grid1">
                <div class="clientes">
                   <img src="images/clientes/vernicar.png" alt=" " class="img-responsive" />
                </div>
@@ -360,21 +349,21 @@
          <div class="container">
             <h3 class="title clr">FALE CONOSCO</h3>
             <div class=" contact-form col-lg-12 col-md-12 col-sm-12">
-               <form action="#" method="post">
+               <form action="enviarMensagem.php" method="post">
                   <div class="row contact-bothside-agileinfo">
                      <div class="col-md-6 col-sm-6 col-xs-6 form-right form-left">
-                        <input type="text" name="Name" placeholder="Nome" required="">
+                        <input type="text" name="nome" placeholder="Nome" required="">
                      </div>
                      <div class="col-md-6 col-sm-6 col-xs-6 form-right ">
-                        <input type="text" name="Last name" placeholder="Sobrenome" required="">
+                        <input type="text" name="sobrenome" placeholder="Sobrenome" required="">
                      </div>
                      <div class="col-md-6 col-sm-6 col-xs-6 form-right form-left">
-                        <input type="email" name="Email" placeholder="Email" required="">
+                        <input type="email" name="email" placeholder="Email" required="">
                      </div>
                      <div class="col-md-6 col-sm-6 col-xs-6 form-right ">
-                        <input type="text" name="phone" placeholder="Telefone" required="">
+                        <input type="text" name="telefone" placeholder="Telefone" required="">
                      </div>
-                     <textarea name="Message" placeholder="Mensagem" required=""></textarea>
+                     <textarea name="mensagem" placeholder="Mensagem" required=""></textarea>
                      <input type="submit" value="ENVIAR">
                   </div>
                </form>
