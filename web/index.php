@@ -42,6 +42,9 @@
                </button>
                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                   <ul class="navbar-nav ">
+                     <li>
+                        <a href="index"><img style="width: 50%; height: 50%;" src="images/logo/logofinal.png"/></a>
+                     </li>
                      <li class="nav-item active">
                         <a class="nav-link" href="index">Home <span class="sr-only">(current)</span></a>
                      </li>
@@ -60,9 +63,9 @@
                   </ul>
                </div>
             </nav>
-            <div class="hedder-up">
+            <!--<div class="hedder-up">
                <h1><a class="navbar-brand" href="index">RealTech Automação</a></h1>
-            </div>
+            </div>-->
          </div>
          <!-- //Navigation -->
          <!-- Slideshow 4 -->
