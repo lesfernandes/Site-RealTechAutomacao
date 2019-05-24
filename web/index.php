@@ -34,28 +34,34 @@
       <link href="//fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
    </head>
    <body>
-      <div class="row justify-content-center contatoInicio">
-         <div class="col">
-            <span class="fa fa-map-marker icons-left" aria-hidden="true">
-               <span class="infoInicio"> 
-                  Rua José Manoel Messias, 95 - Planejada I - Bragança Paulista
-               </span>
-            </span>
+      <div class="contatoInicio">
+      <div class="container">
+         <div class="informacoes">
+            <ul>
+               <li>
+                  <span class="fa fa-map-marker icons-left iconesInicio" aria-hidden="true">
+                     <span class="infoInicio"> 
+                        Rua José Manoel Messias, 95 - Planejada I - Bragança Paulista |
+                     </span>
+                  </span>
+               </li>
+               <li>
+                  <span class="fa fa-phone icons-left iconesInicio" aria-hidden="true">
+                      <span class="infoInicio"> 
+                        (11)99558-6740 |
+                     </span>
+                   </span>
+               </li>
+               <li>
+                  <span class="fa fa-envelope iconesInicio" aria-hidden="true">
+                     <span class="infoInicio"> 
+                        <a href="mailto:info@example.com">fr.projetoeletrico@gmail.com</a>
+                     </span>
+                  </span>
+               </li>
+            </ul>
          </div>
-         <div class="col">
-            <span class="fa fa-phone icons-left" aria-hidden="true">
-               <span class="infoInicio"> 
-                  (11)99558-6740
-               </span>
-            </span>
-         </div>
-         <div class="col">
-            <span class="fa fa-envelope" aria-hidden="true">
-               <span class="infoInicio"> 
-                  <a href="mailto:info@example.com">fr.projetoeletrico@gmail.com</a>
-               </span>
-            </span>
-         </div>
+      </div>
       </div>
       <div class="header-outs" id="home">
          <div class="header-bar">

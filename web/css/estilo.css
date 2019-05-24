@@ -58,11 +58,6 @@
 	padding: 2em !important;
 }
 
-@media (max-width: 991px){
-	.navbar-light .navbar-toggler{
-		background-color: #FFEB3B !important;
-	}
-}
 
 .clientes{
 	border-radius: 100%;
@@ -116,15 +111,51 @@ nav.navbar.navbar-expand-lg.navbar-light{
 	height: 100%;
 }
 
-.contatoInicio{
-	width: 100%; 
+.contatoInicio{ 
 	height: 25px; 
 	background-color: black;
 	color: white;
+	display: flex;
+	width: 100%;
 }
 
 .infoInicio{
 	font-size: 10px; 
 	letter-spacing: 1px; 
 	font-family: 'Montserrat', sans-serif;
+}
+
+.informacoes{
+	display: flex;
+    justify-content: flex-end;
+}
+
+.informacoes ul{
+	display: inline-flex;
+}
+
+.informacoes ul li span a:hover{
+	color: #FFEB3B;
+}
+
+.iconesInicio{
+	padding-left: 10px;
+}
+
+
+@media (max-width: 991px){
+
+	.navbar-light .navbar-toggler{
+		background-color: #FFEB3B !important;
+		justify-content: center;
+	}
+
+	.logo{
+		display: none;
+	}
+
+	div#navbarSupportedContent{
+		background-color: white !important;
+		justify-content: center;
+	}
 }
