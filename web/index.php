@@ -34,6 +34,29 @@
       <link href="//fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
    </head>
    <body>
+      <div class="row justify-content-center contatoInicio">
+         <div class="col">
+            <span class="fa fa-map-marker icons-left" aria-hidden="true">
+               <span class="infoInicio"> 
+                  Rua José Manoel Messias, 95 - Planejada I - Bragança Paulista
+               </span>
+            </span>
+         </div>
+         <div class="col">
+            <span class="fa fa-phone icons-left" aria-hidden="true">
+               <span class="infoInicio"> 
+                  (11)99558-6740
+               </span>
+            </span>
+         </div>
+         <div class="col">
+            <span class="fa fa-envelope" aria-hidden="true">
+               <span class="infoInicio"> 
+                  <a href="mailto:info@example.com">fr.projetoeletrico@gmail.com</a>
+               </span>
+            </span>
+         </div>
+      </div>
       <div class="header-outs" id="home">
          <div class="header-bar">
             <nav class="navbar navbar-expand-lg navbar-light">
@@ -42,8 +65,8 @@
                </button>
                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                   <ul class="navbar-nav ">
-                     <li>
-                        <a href="index"><img style="width: 50%; height: 50%;" src="images/logo/logofinal.png"/></a>
+                     <li class="logo">
+                        <a href="index"><img src="images/logo/logofinal.png"/></a>
                      </li>
                      <li class="nav-item active">
                         <a class="nav-link" href="index">Home <span class="sr-only">(current)</span></a>
@@ -299,52 +322,48 @@
       <!--clients-->
       <div class="clients" id="clients">
          <div class="container">
-         <h3 class="title">CLIENTES</h3>
-         <div class="row clients-says-agile">
-             <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid">
-                  <div class="clientes">
-                        <img src="images/clientes/sasahara.png" alt=" " class="img-responsive" />
-                  </div>
+            <h3 class="title">CLIENTES</h3>
+            <div class="row justify-content-center">
+               <div class="col-2 clientes">
+                  <img src="images/clientes/vernicar.png">
                </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid">
-                  <div class="clientes">
-                        <img src="images/clientes/fazenda.png" alt=" " class="img-responsive" />
-                  </div>
+               <div class="col-2 clientes">
+                  <img src="images/clientes/acqualimp.svg">
                </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid">
-                  <div class="clientes">
-                        <img src="images/clientes/acqualimp.svg" alt=" " class="img-responsive" />
-                  </div>
+               <div class="col-2 clientes">
+                  <img src="images/clientes/sasahara.png">
                </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid">
-                  <div class="clientes">
-                        <img src="images/clientes/biolab.png" alt=" " class="img-responsive" />
-                  </div>
+               <div class="col-2 clientes">
+                  <img src="images/clientes/caloi.png">
                </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid">
-                  <div class="clientes">
-                        <img src="images/clientes/bragantino.png" alt=" " class="img-responsive" />
-                  </div>
+                <div class="col-2 clientes">
+                  <img src="images/clientes/fazenda.png">
                </div>
-               <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid">
-                  <div class="clientes">
-                        <img src="images/clientes/caloi.png" alt=" " class="img-responsive" />
-                  </div>
-               </div>
-         </div>
-         <div class="row clients-says-agile">
-            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid grid1">
-               <div class="clientes">
-                  <img src="images/clientes/redbull.png" alt=" " class="img-responsive" />
+                <div class="col-2 clientes">
+                  <img src="images/clientes/pointchips.png">
                </div>
             </div>
-            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-4 agile_gallery_grid grid1">
-               <div class="clientes">
-                  <img src="images/clientes/vernicar.png" alt=" " class="img-responsive" />
+            <div class="row justify-content-center">
+               <div class="col-2 clientes">
+                  <img src="images/clientes/biolab.png">
+               </div>
+               <div class="col-2 clientes">
+                  <img src="images/clientes/bragantino.png">
+               </div>
+               <div class="col-2 clientes">
+                  <img src="images/clientes/redbull.png">
+               </div>
+               <div class="col-2 clientes">
+                  <img src="images/clientes/multiparts.png">
+               </div>
+                <div class="col-2 clientes">
+                  <img src="images/clientes/">
+               </div>
+                <div class="col-2 clientes">
+                  <img src="images/clientes/">
                </div>
             </div>
          </div>
-      </div>
       </div>
       <!--clients-->
       <!--contact -->
