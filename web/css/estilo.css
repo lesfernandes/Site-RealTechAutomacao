@@ -15,12 +15,16 @@
 	color: white !important;
 }
 
-.about,.clients,.footer{
+.about,.clients{
     background-color: #FFEB3B;
 }
 
-.contact{
+.footer{
 	background-color: #2f2f2f !important;
+}
+
+.contact{
+	background-color:  #FFEB3B !important;
 	background-image: none !important;
 }
 
@@ -30,21 +34,25 @@
 }
 
 .icons ul li a{
-	color: #2f2f2f !important;
+	color: white!important;
 }
 
 .addres-up ul li span{
-	color: #2f2f2f !important;
+	color: white !important;
 }
 
 .contact input[type="submit"]{
     border: 1px solid #FFEB3B !important;
-    background: #FFEB3B !important;
-    color: #2f2f2f !important;
+    background: #2f2f2f !important;
+    color: #FFEB3B !important;
+}
+
+.title-fale{
+	color: #2f2f2f !important;
 }
 
 .wthree-left-right h4{
-	color: #2f2f2f !important;
+	color: white !important;
 	font-size: 40px !important;
 	letter-spacing: 0 !important;
 }
@@ -63,8 +71,8 @@
 	border-radius: 100%;
 	border: 1px solid #FFEB3B;
 	background-color: white;
-	height: 150px;
-	max-width: 150px;
+	height: 125px;
+	max-width: 125px;
 	display: flex;
 	align-items: center;
 	position: relative;
@@ -142,6 +150,28 @@ nav.navbar.navbar-expand-lg.navbar-light{
 	padding-left: 10px;
 }
 
+.header-bar{
+	position: inherit;
+}
+
+.addres-up ul li span:hover{
+	color:  #FFEB3B !important;
+}
+
+.icons ul li a span:hover {
+    color: #FFEB3B;
+}
+
+footer p a:hover{
+	color:  #FFEB3B;
+}
+footer p a{
+	text-decoration: none;
+}
+
+footer p {
+	background-color: #2f2f2fe0 !important;
+}
 
 @media (max-width: 991px){
 
@@ -159,8 +189,19 @@ nav.navbar.navbar-expand-lg.navbar-light{
 		display: none;
 	}
 
+	.navbar-expand-lg .navbar-nav{
+		align-items: inherit;
+	}
+
 	div#navbarSupportedContent{
 		background-color: white !important;
 		justify-content: center;
+	}
+}
+
+@media (max-width: 450px){
+
+	.contatoInicio{
+		display: none;
 	}
 }
