@@ -1,5 +1,9 @@
-logo realtech
-serviços (faltam dois)
 testar o fale conosco no servidor do site (ver config
 no cpanel sobre os email do dominio poderem enviar emails
 do script)
+
+empresas sem logo:
+- Verão Vermelho 
+- Comercial Panunccio
+- Ter num
+- Marzita Laticínios

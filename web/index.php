@@ -36,30 +36,22 @@
    <body>
       <div class="contatoInicio">
       <div class="container">
-         <div class="informacoes">
-            <ul>
-               <li>
-                  <span class="fa fa-map-marker icons-left iconesInicio" aria-hidden="true">
+         <div class="informacoes row">
+                  <span class="fa fa-map-marker icons-left iconesInicio col-4" aria-hidden="true">
                      <span class="infoInicio"> 
                         Rua José Manoel Messias, 95 - Planejada I - Bragança Paulista |
                      </span>
                   </span>
-               </li>
-               <li>
-                  <span class="fa fa-phone icons-left iconesInicio" aria-hidden="true">
+                  <span class="fa fa-phone icons-left iconesInicio col-4" aria-hidden="true">
                       <span class="infoInicio"> 
                         (11)99558-6740 |
                      </span>
                    </span>
-               </li>
-               <li>
-                  <span class="fa fa-envelope iconesInicio" aria-hidden="true">
+                  <span class="fa fa-envelope iconesInicio col-4" aria-hidden="true">
                      <span class="infoInicio"> 
                         <a href="mailto:info@example.com">fr.projetoeletrico@gmail.com</a>
                      </span>
                   </span>
-               </li>
-            </ul>
          </div>
       </div>
       </div>
@@ -157,8 +149,7 @@
                <div class="agile-abt-info col-lg-12 col-md-12 col-sm-12">
                   <h3 class="title">EMPRESA</h3>
                   <div class="info-sub-w3">
-                     <p>Fundada em <strong>***</strong>, a RealTech visa trazer a soluções elétricas e automação para indústrias. Com uma ótima localização, próximo aos grandes centros industriais de Guarulhos, Grande São Paulo, Sul de Minas Gerais, Itatiba, Jundiai e Campinas.
-                     </p>
+                     <p>A RealTech iniciou suas atividades em 2012, tendo como objetivo a prestação de serviços no setor elétrico, e desde então disponibiliza ao mercado: serviços de instalação, manuntenção e montagem em equipamentos e sistemas elétricos, assim como estudos técnicos e projetos de Engenharia Elétrica.</p>
                   </div>
                   <!--<div class="arrow">
                      <ul>
@@ -304,8 +295,7 @@
                      <a href="images/s3.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
                         <img src="images/s3.jpg" alt=" " class="img-responsive" />
                         <div class="overlay">
-                           <h4>LECCY</h4>
-                           <div class="info nullbutton button">Full View</div>
+                           <h4>PROJETOS ELÉTRICOS INDUSTRIAIS</h4>
                         </div>
                      </a>
                   </div>
@@ -313,10 +303,9 @@
                <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
                   <div class="hover ehover14">
                      <a href="images/eletric.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-                        <img src="images/eletric.jpg" alt=" " class="img-responsive" />
+                        <img src="images/manutencao.jpg" alt=" " class="img-responsive" />
                         <div class="overlay">
-                           <h4>LECCY</h4>
-                           <div class="info nullbutton button">Full View</div>
+                           <h4>MANUTENÇÕES PREVENTIVAS E CORRETIVAS</h4>
                         </div>
                      </a>
                   </div>

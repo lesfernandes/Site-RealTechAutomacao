@@ -134,7 +134,7 @@ nav.navbar.navbar-expand-lg.navbar-light{
 	display: inline-flex;
 }
 
-.informacoes ul li span a:hover{
+.informacoes span a:hover{
 	color: #FFEB3B;
 }
 
@@ -144,6 +144,11 @@ nav.navbar.navbar-expand-lg.navbar-light{
 
 
 @media (max-width: 991px){
+
+	.contatoInicio{
+		height: 50px;
+		justify-content: space-between;
+	}
 
 	.navbar-light .navbar-toggler{
 		background-color: #FFEB3B !important;
