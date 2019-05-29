@@ -60,7 +60,7 @@
          <div class="container">
             <div class="row abt-colm offset">
                <div class="agile-abt-info col-lg-12 col-md-12 col-sm-12">
-                  <h3 class="title">EMPRESA</h3>
+                  <h3 class="title title-about">EMPRESA</h3>
                   <div class="info-sub-w3">
                      <p>A RealTech iniciou suas atividades em 2012, tendo como objetivo a prestação de serviços no setor elétrico, e desde então disponibiliza ao mercado: serviços de instalação, manuntenção e montagem em equipamentos e sistemas elétricos, assim como estudos técnicos e projetos de Engenharia Elétrica.</p>
                   </div>
@@ -128,7 +128,7 @@
                </div>
                <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
                   <div class="hover ehover14">
-                     <a href="images/eletric.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+                     <a href="images/manutencao.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
                         <img src="images/manutencao.jpg" alt=" " class="img-responsive" />
                         <div class="overlay">
                            <h4>MANUTENÇÕES PREVENTIVAS E CORRETIVAS</h4>

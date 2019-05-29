@@ -7,10 +7,10 @@
 		$telefone = $_POST['telefone'];
 		$mensagem = $_POST['mensagem'];
 
-		$para = "fr.projetoeletrico@gmail.com";
+		$para = "contato@realtechautomacao.com.br";
 		$assunto = "Mensagem - Site RealTech";
 		$corpo = "Nome: ".$nome."\r\nEmail: ".$email."\r\nTelefone: ".$telefone."\r\nMensagem: ".$mensagem;
-		$cabecalho = "From: "."\r\nReply-To:".$email."\r\n"."X-Mailer:PHP/".phpversion();
+		$cabecalho = "From: contato@realtechautomacao.com.br"."\r\nReply-To:".$email."\r\n"."X-Mailer:PHP/".phpversion();
 
 		if(mail($para, $assunto, $corpo, $cabecalho)){
 			echo "<script>alert('Email enviado com sucesso!'); window.location.href='index.php';</script>";

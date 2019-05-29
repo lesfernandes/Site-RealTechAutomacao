@@ -67,9 +67,12 @@
       <div class="header-outs" id="home">
          <div class="header-bar">
             <nav class="navbar navbar-expand-lg navbar-light">
-               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-               <span class="navbar-toggler-icon"></span>
-               </button>
+               <div class="logoMenor">
+                  <div class="container">
+                     <a href="index"><img src="images/logo/logofinalmenor.png"></a>
+                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="botaoMenu"><span class="navbar-toggler-icon"></span> </button>
+                  </div>
+               </div>
                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                   <ul class="navbar-nav ">
                      <li class="logo">
