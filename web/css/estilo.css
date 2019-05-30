@@ -206,6 +206,7 @@ footer p {
 		display: none;
 	}
 }
+
 @media (max-width: 991px){
 
 	.navbar-light .navbar-toggler{
@@ -243,6 +244,42 @@ footer p {
 	}
 
 	.addres-up ul li p{
+		font-size: 9px;
+	}
+}
+
+@media(max-width:768px){
+	#hoverServices:hover{
+		font-size: 14px;
+	}
+}
+
+@media(max-width: 567px) and (min-width: 480px){
+	#hoverServices:hover{
+		font-size: 12px;
+	}
+}
+
+@media(max-width: 479px) and (min-width: 442px){
+	#hoverServices:hover{
 		font-size: 11px;
+	}
+}
+
+@media(max-width: 441px) and (min-width: 415px){
+	#hoverServices:hover{
+		font-size: 10px;
+	}
+}
+
+@media(max-width: 414px) and (min-width: 385px){
+	#hoverServices:hover{
+		font-size: 9px;
+	}
+}
+
+@media(max-width: 384px){
+	#hoverServices:hover{
+		font-size: 7px;
 	}
 }

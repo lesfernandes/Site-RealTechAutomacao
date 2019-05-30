@@ -165,7 +165,7 @@ nav.navbar.navbar-expand-lg.navbar-light{
 .three-img{  background: url(../images/b3.jpg)no-repeat center;} 
 .slider-img{  background-size: cover;
     min-height: 800px;
-	background-attachment:fixed;}  
+	}  
 .rslides {
   position: relative;
   list-style: none;

@@ -43,7 +43,7 @@
                         </li>
                         <li>
                            <span class="fa fa-envelope"></span>
-                           <p><a style="color: white !important" href="mailto:info@example.com">fr.projetoeletrico@gmail.com</a></p>
+                           <p><a style="color: white !important" href="mailto:contato@realtechautomacao.com.br">contato@realtechautomacao.com.br</a></p>
                         </li>
                      </ul>
                   </div>
