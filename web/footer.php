@@ -63,7 +63,7 @@
          </div>
       </div>
       <footer>
-         <p>©2019 Real Tech. Todos os direitos reservados. | Design por <a href="https://www.linkedin.com/in/let%C3%ADcia-fernandes-573b1b16b/" target="_blank">Letícia Fernandes</a></p>
+         <p>©2019 RealTech. Todos os direitos reservados. | Design por <a href="https://www.linkedin.com/in/let%C3%ADcia-fernandes-573b1b16b/" target="_blank" style="color: #FFEB3B !important;">Letícia Fernandes</a></p>
       </footer>
       <!-- //Footer -->
       <!--js working-->
