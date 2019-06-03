@@ -88,22 +88,25 @@
                         <a href="index.php#services" class="nav-link" style="padding-bottom: 45% !important;">Serviços</a>
                         <ul>
                            <li class="nav-item">
-                              <a href="" class="nav-link">Montagem de Painéis e Bandeijamento</a>
+                              <a href="paineis.php" class="nav-link">Montagem de Painéis e Bandeijamento</a>
                            </li>
                            <li class="nav-item">
-                              <a href="" class="nav-link">Iluminação Industrial</a>
+                              <a href="iluminacao.php" class="nav-link">Iluminação Industrial</a>
                            </li>
                            <li class="nav-item">
-                              <a href="" class="nav-link">Montagem de Posto de Média Tensão</a>
+                              <a href="postos.php" class="nav-link">Montagem de Posto de Média Tensão</a>
                            </li>
                            <li class="nav-item">
-                              <a href="" class="nav-link">Leitos e Tubulações</a>
+                              <a href="leitos.php" class="nav-link">Leitos e Tubulações</a>
                            </li>
                            <li class="nav-item">
-                              <a href="" class="nav-link">Projetos Elétricos Industriais</a>
+                              <a href="projetos.php" class="nav-link">Projetos Elétricos Industriais</a>
                            </li>
                            <li class="nav-item">
-                              <a href="" class="nav-link">Manutenções Preventivas e Corretivas</a>
+                              <a href="manutencoes.php" class="nav-link">Manutenções Preventivas e Corretivas</a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="spda.php" class="nav-link">SPDA - Sistemas de Proteção Contra <br> Descargas Atmosféricas</a>
                            </li>
                         </ul>
                      </li>
