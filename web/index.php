@@ -136,6 +136,16 @@
                      </a>
                   </div>
                </div>
+               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
+                  <div class="hover ehover14" id="hoverServices">
+                     <a href="images/manutencao.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+                        <img src="images/manutencao.jpg" alt=" " class="img-responsive" />
+                        <div class="overlay">
+                           <h4 id="spda">SPDA - SISTEMAS DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS</h4>
+                        </div>
+                     </a>
+                  </div>
+               </div>
             </div>
             </div>
          </div>

@@ -199,14 +199,33 @@ footer p {
 	float: right;
 }
 
+#spda{
+	font-size: 1.1em;
+}
+
 
 @media (min-width: 992px){
 	.logoMenor{
 		display: none;
 	}
+
+	.navbar-nav li ul{
+	position: absolute;
+	top: 100%;
+	background-color: white;
+	display: none;
+	}	 
+
+	.navbar-nav li:hover ul, .navbar-nav li.over ul{
+		display: block;
+	}
 }
 
 @media (max-width: 991px){
+
+	.navbar-nav li ul{
+	display: none;
+	}	
 
 	.navbar-light .navbar-toggler{
 		background-color: #FFEB3B !important;
@@ -280,5 +299,11 @@ footer p {
 @media(max-width: 384px){
 	#hoverServices:hover{
 		font-size: 7px;
+	}
+}
+
+@media(max-width: 1199px){
+	#spda{
+		font-size: 0.8em;
 	}
 }

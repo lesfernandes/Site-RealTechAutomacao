@@ -85,7 +85,27 @@
                         <a href="index.php#about" class="nav-link">Empresa</a>
                      </li>
                      <li class="nav-item">
-                        <a href="index.php#services" class="nav-link">Serviços</a>
+                        <a href="index.php#services" class="nav-link" style="padding-bottom: 45% !important;">Serviços</a>
+                        <ul>
+                           <li class="nav-item">
+                              <a href="" class="nav-link">Montagem de Painéis e Bandeijamento</a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="" class="nav-link">Iluminação Industrial</a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="" class="nav-link">Montagem de Posto de Média Tensão</a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="" class="nav-link">Leitos e Tubulações</a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="" class="nav-link">Projetos Elétricos Industriais</a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="" class="nav-link">Manutenções Preventivas e Corretivas</a>
+                           </li>
+                        </ul>
                      </li>
                      <li class="nav-item">
                         <a href="clientes.php" class="nav-link">Clientes</a>
