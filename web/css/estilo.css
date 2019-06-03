@@ -219,6 +219,10 @@ footer p {
 	.navbar-nav li:hover ul, .navbar-nav li.over ul{
 		display: block;
 	}
+
+	#servicosLink{
+		padding-bottom: 45%;
+	}
 }
 
 @media (max-width: 991px){
@@ -246,6 +250,10 @@ footer p {
 	}
 
 	.contatoInicio{
+		display: none;
+	}
+
+	#servicosLink{
 		display: none;
 	}
 

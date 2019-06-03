@@ -74,6 +74,7 @@
                   </div>
                </div>
                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+                  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="botaoMenu"  style="margin-left: 35% !important;"><span class="navbar-toggler-icon"></span> </button>
                   <ul class="navbar-nav ">
                      <li class="logo">
                         <a href="index.php"><img src="images/logo/logofinal.png"/></a>
@@ -85,7 +86,7 @@
                         <a href="index.php#about" class="nav-link">Empresa</a>
                      </li>
                      <li class="nav-item">
-                        <a href="index.php#services" class="nav-link" style="padding-bottom: 45% !important;">Serviços</a>
+                        <a href="" class="nav-link" id="servicosLink">Serviços</a>
                         <ul>
                            <li class="nav-item">
                               <a href="paineis.php" class="nav-link">Montagem de Painéis e Bandeijamento</a>
