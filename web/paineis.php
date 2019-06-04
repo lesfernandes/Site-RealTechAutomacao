@@ -11,52 +11,66 @@
                <div class="row agile_gallery_grids">
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid">
 	               		<div class="hover">
-		                    <a href="images/painel.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-		                    	<img src="images/painel.jpg" alt=" " class="img-responsive" />
+		                    <a href="images/paineis/p1.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+		                    	<img src="images/paineis/p1.jpeg" alt=" " class="img-responsive" />
 		                    </a>
 		                </div>				
 	               </div>
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid">
 	               		<div class="hover">
-		                     <a href="images/iluminacao.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-		                        <img src="images/iluminacao.jpg" alt=" " class="img-responsive" />
-		                     </a>
-						</div>
+		                    <a href="images/paineis/p2.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+		                    	<img src="images/paineis/p2.jpeg" alt=" " class="img-responsive" />
+		                    </a>
+		                </div>				
 	               </div>
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid">
-	                  <div class="hover">
-	                     <a href="images/posto.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-	                        <img src="images/posto.jpg" alt=" " class="img-responsive" />
-	                     </a>
-	                  </div>
+	               		<div class="hover">
+		                    <a href="images/paineis/p3.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+		                    	<img src="images/paineis/p3.jpeg" alt=" " class="img-responsive" />
+		                    </a>
+		                </div>				
 	               </div>
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
-	                  <div class="hover">
-	                     <a href="images/tubulacao.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-	                        <img src="images/tubulacao.jpg" alt=" " class="img-responsive" />
-	                     </a>
-	                  </div>
+	               		<div class="hover">
+		                    <a href="images/paineis/p4.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+		                    	<img src="images/paineis/p4.jpeg" alt=" " class="img-responsive" />
+		                    </a>
+		                </div>				
 	               </div>
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
-	                  <div class="hover">
-	                     <a href="images/s3.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-	                        <img src="images/s3.jpg" alt=" " class="img-responsive" />
-	                     </a>
-	                  </div>
+	               		<div class="hover">
+		                    <a href="images/paineis/p5.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+		                    	<img src="images/paineis/p5.jpeg" alt=" " class="img-responsive" />
+		                    </a>
+		                </div>				
 	               </div>
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
-	                  <div class="hover">
-	                     <a href="images/manutencao.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-	                        <img src="images/manutencao.jpg"/>
-	                     </a>
-	                  </div>
+	               		<div class="hover">
+		                    <a href="images/paineis/p6.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+		                    	<img src="images/paineis/p6.jpeg" alt=" " class="img-responsive" />
+		                    </a>
+		                </div>				
 	               </div>
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
-	                  <div class="hover">
-	                     <a href="images/manutencao.jpg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-	                        <img src="images/manutencao.jpg" alt=" " class="img-responsive" />
-	                     </a>
-	                  </div>
+	               		<div class="hover">
+		                    <a href="images/paineis/p7.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+		                    	<img src="images/paineis/p7.jpeg" alt=" " class="img-responsive" />
+		                    </a>
+		                </div>				
+	               </div>
+	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
+	               		<div class="hover">
+		                    <a href="images/paineis/p8.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+		                    	<img src="images/paineis/p8.jpeg" alt=" " class="img-responsive" />
+		                    </a>
+		                </div>				
+	               </div>
+	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
+	               		<div class="hover">
+		                    <a href="images/paineis/p9.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
+		                    	<img src="images/paineis/p9.jpeg" alt=" " class="img-responsive" />
+		                    </a>
+		                </div>				
 	               </div>
 	            </div>
             </div>

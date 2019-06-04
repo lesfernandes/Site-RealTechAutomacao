@@ -101,17 +101,7 @@
                      <a href="postos.php">
                         <img src="images/posto.jpg" alt=" " class="img-responsive" />
                         <div class="overlay">
-                           <h4>MONTAGEM DE POSTO DE MÉDIA TENSÃO</h4>
-                        </div>
-                     </a>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
-                  <div class="hover ehover14" id="hoverServices">
-                     <a href="leitos.php">
-                        <img src="images/tubulacao.jpg" alt=" " class="img-responsive" />
-                        <div class="overlay">
-                           <h4>LEITOS E TUBULAÇÕES</h4>
+                           <h4>CABINES PRIMÁRIAS E LEITOS DE MÉDIA TENSÃO</h4>
                         </div>
                      </a>
                   </div>
@@ -119,7 +109,7 @@
                <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
                   <div class="hover ehover14" id="hoverServices">
                      <a href="projetos.php">
-                        <img src="images/s3.jpg" alt=" " class="img-responsive" />
+                        <img src="images/projetos/p1.jpeg" alt=" " class="img-responsive" />
                         <div class="overlay">
                            <h4>PROJETOS ELÉTRICOS INDUSTRIAIS</h4>
                         </div>
@@ -139,7 +129,7 @@
                <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
                   <div class="hover ehover14" id="hoverServices">
                      <a href="spda.php">
-                        <img src="images/manutencao.jpg" alt=" " class="img-responsive" />
+                        <img src="images/spda/s4.jpeg" alt=" " class="img-responsive" />
                         <div class="overlay">
                            <h4 id="spda">SPDA - SISTEMAS DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS</h4>
                         </div>
@@ -192,17 +182,7 @@
                      <a href="postos.php">
                         <img src="images/posto.jpg" alt=" " class="img-responsive" />
                         <div class="overlay">
-                           <h4>MONTAGEM DE POSTO DE MÉDIA TENSÃO</h4>
-                        </div>
-                     </a>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
-                  <div class="hover ehover14" id="hoverServices">
-                     <a href="leitos.php">
-                        <img src="images/tubulacao.jpg" alt=" " class="img-responsive" />
-                        <div class="overlay">
-                           <h4>LEITOS E TUBULAÇÕES</h4>
+                           <h4>CABINES PRIMÁRIAS E LEITOS DE MÉDIA TENSÃO</h4>
                         </div>
                      </a>
                   </div>

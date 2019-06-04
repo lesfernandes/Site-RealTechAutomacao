@@ -56,7 +56,7 @@
                <li>
                   <span class="fa fa-envelope iconesInicio" aria-hidden="true">
                      <span class="infoInicio"> 
-                        <a href="mailto:info@example.com">fr.projetoeletrico@gmail.com</a>
+                        <a href="mailto:contato@realtechautomacao.com.br">contato@realtechautomacao.com.br</a>
                      </span>
                   </span>
                </li>
@@ -95,10 +95,7 @@
                               <a href="iluminacao.php" class="nav-link">Iluminação Industrial</a>
                            </li>
                            <li class="nav-item">
-                              <a href="postos.php" class="nav-link">Montagem de Posto de Média Tensão</a>
-                           </li>
-                           <li class="nav-item">
-                              <a href="leitos.php" class="nav-link">Leitos e Tubulações</a>
+                              <a href="postos.php" class="nav-link">Cabines Primárias e Leitos de Média Tensão</a>
                            </li>
                            <li class="nav-item">
                               <a href="projetos.php" class="nav-link">Projetos Elétricos Industriais</a>
