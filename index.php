@@ -190,7 +190,7 @@
                <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
                   <div class="hover ehover14" id="hoverServices">
                      <a href="projetos.php">
-                        <img src="images/s3.jpg" alt=" " class="img-responsive" />
+                        <img src="images/projetos/p1.jpeg" alt=" " class="img-responsive" />
                         <div class="overlay">
                            <h4>PROJETOS ELÉTRICOS INDUSTRIAIS</h4>
                         </div>

@@ -21,7 +21,7 @@
                   <img src="images/clientes/pointchips.png">
                </div>
                <div class="col-5 clientes">
-                  <img src="images/clientes/biolab.png">
+                  <img src="images/clientes/belifarma.png">
                </div>
             </div>
             <div class="row justify-content-center">

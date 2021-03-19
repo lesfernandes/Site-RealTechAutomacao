@@ -6,15 +6,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="keywords" content="" />
-      <script>
-         addEventListener("load", function () {
-         	setTimeout(hideURLbar, 0);
-         }, false);
-         
-         function hideURLbar() {
-         	window.scrollTo(0, 1);
-         }
-      </script>
+
       <!--//meta tags ends here-->
       <!--booststrap-->
       <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">

@@ -1255,7 +1255,7 @@ h6.description{
     background-size: cover;
 	    background-attachment: fixed;
 }
-.form-right input[type="text"], .form-right input[type="email"], .form-right input[type="password"], .contact-bothside-agileinfo textarea {
+.form-right input[type="text"], .form-right input[type="email"], .contact-bothside-agileinfo textarea {
     width: 100%;
     color: #000;
     background: #ffffff;
@@ -1594,7 +1594,7 @@ font-size: 15px;}
 .profile ul li h6 {
     font-size: 17px;
 }
-.form-right input[type="text"], .form-right input[type="email"], .form-right input[type="password"],
+.form-right input[type="text"], .form-right input[type="email"],
  .contact-bothside-agileinfo textarea {
     font-size: 14px;
 }
@@ -1688,7 +1688,7 @@ h1 a.navbar-brand {
     padding: 1.2em 1em 0em;
 }
 .form-right input[type="text"], 
-.form-right input[type="email"], .form-right input[type="password"], 
+.form-right input[type="email"],
  .contact-bothside-agileinfo textarea {
     padding: .7em .9em;
 }
@@ -1799,7 +1799,7 @@ nav.navbar.navbar-expand-lg.navbar-light{
     padding: 0.5em 3em;
 }
 .form-right input[type="text"], 
-.form-right input[type="email"], .form-right input[type="password"], 
+.form-right input[type="email"], 
 .contact-bothside-agileinfo textarea {
     margin-bottom: 1.5em;
 }
