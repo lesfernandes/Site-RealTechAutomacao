@@ -78,7 +78,7 @@
                         <a href="index#about" class="nav-link">Empresa</a>
                      </li>
                      <li class="nav-item">
-                        <a href="index#servicesPhone" class="nav-link" id="servicosLink">Serviços</a>
+                        <a href="index#services" class="nav-link" id="servicosLink">Serviços</a>
                         <ul class="menuDrop">
                            <li class="nav-item">
                               <a href="paineis" class="nav-link">Montagem de Painéis e Bandeijamento</a>

@@ -30,14 +30,14 @@
 	                     </a>
 	                  </div>
 	               </div>
-	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
+	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid-services">
 	                  <div class="hover">
 	                     <a href="images/preventiva/m4.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
 	                        <img src="images/preventiva/m4.jpeg" alt=" " class="img-fluid" />
 	                     </a>
 	                  </div>
 	               </div>
-	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
+	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid-services">
 	                  <div class="hover">
 	                     <a href="images/preventiva/m5.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
 	                        <img src="images/preventiva/m5.jpeg" alt=" " class="img-fluid" />

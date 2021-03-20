@@ -61,7 +61,7 @@
          </div>
       </div>
       <footer>
-         <p>©2021 RealTech. Todos os direitos reservados. | Desenvolvido por <a href="https://www.linkedin.com/in/let%C3%ADcia-fernandes-573b1b16b/" target="_blank" style="color: #FFEB3B !important;">Letícia Fernandes</a></p>
+         <p>©2021 RealTech. Todos os direitos reservados. | Desenvolvido por <a href="https://www.github.com/lesfernandes" target="_blank" style="color: #FFEB3B !important;">Letícia Fernandes</a></p>
       </footer>
       <!-- //Footer -->
       <!--js working-->

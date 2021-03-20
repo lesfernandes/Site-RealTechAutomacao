@@ -67,6 +67,11 @@
 	padding: 2em !important;
 }
 
+.grid-services {
+	padding-top:33px;
+	height: 250px;
+}
+
 .clientes{
 	border-radius: 100%;
 	border: 1px solid #2f2f2f;
@@ -199,11 +204,6 @@ footer p {
 	float: right;
 }
 
-#spda{
-	font-size: 1.1em;
-}
-
-
 @media (min-width: 992px){
 	.logoMenor{
 		display: none;
@@ -224,16 +224,9 @@ footer p {
 		padding-bottom: 45%;
 	}
 
-	#servicesPhone{
-		display: none;
-	}
 }
 
 @media (max-width: 991px){
-
-	#services{
-		display: none;
-	}
 
 	.navbar-nav li ul{
 	display: none;
@@ -407,6 +400,7 @@ footer p {
 	.addres-up ul li p{
 		font-size: 9px;
 	}
+
 }
 
 @media(max-width:768px){
@@ -415,6 +409,10 @@ footer p {
 	}
 	#hoverServices{
 		font-size: 14px;
+	}
+
+	.grid-services {
+		height: 200px;
 	}
 }
 
@@ -426,6 +424,10 @@ footer p {
 	#hoverServices{
 		font-size: 12px;
 	}
+
+	.grid-services {
+		height: 175px;
+	}
 }
 
 @media(max-width: 479px) and (min-width: 442px){
@@ -435,6 +437,10 @@ footer p {
 
 	#hoverServices{
 		font-size: 11px;
+	}
+
+	.grid-services {
+		height: 150px;
 	}
 }
 
@@ -446,6 +452,10 @@ footer p {
 	#hoverServices{
 		font-size: 10px;
 	}
+
+	.grid-services {
+		height: 150px;
+	}
 }
 
 @media(max-width: 414px) and (min-width: 385px){
@@ -454,6 +464,10 @@ footer p {
 	}
 	#hoverServices{
 		font-size: 9px;
+	}
+
+	.grid-services {
+		height: 150px;
 	}
 }
 
@@ -465,10 +479,8 @@ footer p {
 		font-size: 7px;
 	}
 
-}
-
-@media(max-width: 1199px){
-	#spda{
-		font-size: 0.8em;
+	.grid-services {
+		height: 125px;
 	}
+
 }
