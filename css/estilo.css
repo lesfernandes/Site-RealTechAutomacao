@@ -228,6 +228,10 @@ footer p {
 
 @media (max-width: 991px){
 
+	.lightspeed-box img.lsb-image.lsb-image-loaded {
+		max-width: 70%;
+	}
+
 	.navbar-nav li ul{
 	display: none;
 	}	
@@ -414,6 +418,9 @@ footer p {
 	.grid-services {
 		height: 200px;
 	}
+
+	
+	
 }
 
 @media(max-width: 567px) and (min-width: 480px){

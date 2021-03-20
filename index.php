@@ -83,7 +83,7 @@
       </div>
       <div class="row agile_gallery_grids">
          <div class="col-lg-4 col-md-6 col-sm-12 agile_gallery_grid grid-services">
-            <div class="hover ehover14 d-flex justify-content-center" id="hoverServices">
+            <div class="hover ehover14" id="hoverServices">
                <a href="paineis">
                   <img src="images/painel.jpg" alt=" " class="img-fluid h-100" />
                   <div class="overlay">
