@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>RealTech Automação</title>
+      <title>Realtech Soluções em Elétrica</title>
       <!--meta tags -->
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">

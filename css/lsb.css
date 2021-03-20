@@ -78,7 +78,7 @@
 }
     /* line 80, D:/yadisk/YandexDisk/web-dev/lsb-lightbox/src/lsb.scss */
     .lightspeed-box img.lsb-image.lsb-image-loaded {
-    max-width: 100%;
+    max-width: 30%;
     border: 3px solid rgba(255, 255, 255, 0.9);
     border-radius: 3px;
     display: block;

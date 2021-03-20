@@ -12,28 +12,28 @@
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid">
 	               		<div class="hover">
 		                    <a href="images/spda/s1.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-		                    	<img src="images/spda/s1.jpeg" alt=" " class="img-responsive" />
+		                    	<img src="images/spda/s1.jpeg" alt=" " class="img-fluid" />
 		                    </a>
 		                </div>				
 	               </div>
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid">
 	               		<div class="hover">
 		                     <a href="images/spda/s2.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-		                        <img src="images/spda/s2.jpeg" alt=" " class="img-responsive" />
+		                        <img src="images/spda/s2.jpeg" alt=" " class="img-fluid" />
 		                     </a>
 						</div>
 	               </div>
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid">
 	                  <div class="hover">
 	                     <a href="images/spda/s3.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-	                        <img src="images/spda/s3.jpeg" alt=" " class="img-responsive" />
+	                        <img src="images/spda/s3.jpeg" alt=" " class="img-fluid" />
 	                     </a>
 	                  </div>
 	               </div>
 	               <div class="col-lg-4 col-md-6 col-sm-6 col-6 agile_gallery_grid grid1">
 	                  <div class="hover">
 	                     <a href="images/spda/s4.jpeg" class="lsb-preview wthree_p_grid" data-lsb-group="header">
-	                        <img src="images/spda/s4.jpeg" alt=" " class="img-responsive" />
+	                        <img src="images/spda/s4.jpeg" alt=" " class="img-fluid" />
 	                     </a>
 	                  </div>
 	               </div>

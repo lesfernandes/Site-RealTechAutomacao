@@ -35,7 +35,7 @@
                      <ul>
                         <li>
                            <span class="fa fa-map-marker icons-left" aria-hidden="true"></span>
-                           <p style="color: white !important">Rua José Manoel Messias, 95 - Planejada I - <br> Bragança Paulista</p>
+                           <p style="color: white !important">Rua Bragança, 59 - Matadouro - <br> Bragança Paulista</p>
                         </li>
                         <li>
                            <span class="fa fa-phone icons-left" aria-hidden="true"></span>
@@ -49,21 +49,19 @@
                   </div>
                   <div class="icons">
                      <ul>
-                        <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                         <li><a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511995586740"><span class="fa fa-whatsapp icon icon-border"></span></a></li>
                      </ul>
                   </div>
                </div>
                <div class="col-lg-7 col-md-12 col-sm-12 wthree-left-right">
                   <div class="contact-map">
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.808646911799!2d-46.554912985559994!3d-22.92042774411903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ceca4d7d29fc09%3A0x75da02d58563ce19!2sR.+Jos%C3%A9+Manoel+Mess%C3%ADas%2C+95+-+Cidade+Planejada+I%2C+Bragan%C3%A7a+Paulista+-+SP%2C+12922-220!5e0!3m2!1spt-BR!2sbr!4v1558098387877!5m2!1spt-BR!2sbr" allowfullscreen></iframe>
-                  </div>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.2158957538113!2d-46.53712538555937!3d-22.942274744904857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ceca1fe376bdc5%3A0xca5b350d8af8665b!2sR.%20Bragan%C3%A7a%2C%2059%20-%20Matadouro%2C%20Bragan%C3%A7a%20Paulista%20-%20SP%2C%2012910-360!5e0!3m2!1spt-BR!2sbr!4v1616252815241!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>                  </div>
                </div>
             </div>
          </div>
       </div>
       <footer>
-         <p>©2019 RealTech. Todos os direitos reservados. | Design por <a href="https://www.linkedin.com/in/let%C3%ADcia-fernandes-573b1b16b/" target="_blank" style="color: #FFEB3B !important;">Letícia Fernandes</a></p>
+         <p>©2021 RealTech. Todos os direitos reservados. | Desenvolvido por <a href="https://www.linkedin.com/in/let%C3%ADcia-fernandes-573b1b16b/" target="_blank" style="color: #FFEB3B !important;">Letícia Fernandes</a></p>
       </footer>
       <!-- //Footer -->
       <!--js working-->
@@ -149,7 +147,18 @@
       <script src="js/lsb.min.js"></script>
       <script>
          $(window).load(function() {
-         	  $.fn.lightspeedBox();
+         	  $.fn.lightspeedBox({
+                 showImageTitle: false, 
+                 showDownloadButton: false,
+                 zIndex: 999,
+                 showAutoPlayButton: false,
+                 locale: {
+                  nextButton: 'Próximo',
+                  prevButton: 'Anterior',
+                  closeButton: 'Fechar',
+                  noImageFound: 'Imagem não encontrada.',
+                 }
+              });
          	});
       </script> 
       <!-- //gallery-lightbox -->

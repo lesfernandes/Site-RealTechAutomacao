@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>RealTech Automação</title>
+      <title>Realtech Soluções em Elétrica</title>
       <!--meta tags -->
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@
                <li>
                   <span class="fa fa-map-marker icons-left iconesInicio" aria-hidden="true">
                      <span class="infoInicio"> 
-                        Rua José Manoel Messias, 95 - Planejada I - Bragança Paulista 
+                        Rua Bragança, 59 - Matadouro - Bragança Paulista 
                      </span>
                   </span>
                </li>
@@ -61,7 +61,7 @@
             <nav class="navbar navbar-expand-lg navbar-light">
                <div class="logoMenor">
                   <div class="container">
-                     <a href="index.php"><img src="images/logo/logofinalmenor.png"></a>
+                     <a href="index"><img src="images/logo/logofinalmenor.png"></a>
                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="botaoMenu"><span class="navbar-toggler-icon"></span> </button>
                   </div>
                </div>
@@ -69,39 +69,42 @@
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="botaoMenu"  style="margin-left: 35% !important;"><span class="navbar-toggler-icon"></span> </button>
                   <ul class="navbar-nav ">
                      <li class="logo">
-                        <a href="index.php"><img src="images/logo/logofinal.png"/></a>
+                        <a href="index"><img src="images/logo/logofinal.png"/></a>
                      </li>
                      <li class="nav-item active">
-                        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index">Home <span class="sr-only">(current)</span></a>
                      </li>
                      <li class="nav-item">
-                        <a href="index.php#about" class="nav-link">Empresa</a>
+                        <a href="index#about" class="nav-link">Empresa</a>
                      </li>
                      <li class="nav-item">
-                        <a href="index.php#servicesPhone" class="nav-link" id="servicosLink">Serviços</a>
+                        <a href="index#servicesPhone" class="nav-link" id="servicosLink">Serviços</a>
                         <ul class="menuDrop">
                            <li class="nav-item">
-                              <a href="paineis.php" class="nav-link">Montagem de Painéis e Bandeijamento</a>
+                              <a href="paineis" class="nav-link">Montagem de Painéis e Bandeijamento</a>
                            </li>
                            <li class="nav-item">
-                              <a href="iluminacao.php" class="nav-link">Iluminação Industrial</a>
+                              <a href="iluminacao" class="nav-link">Iluminação Industrial</a>
                            </li>
                            <li class="nav-item">
-                              <a href="postos.php" class="nav-link">Cabines Primárias e Leitos de Média Tensão</a>
+                              <a href="postos" class="nav-link">Cabines Primárias e Leitos de Média Tensão</a>
                            </li>
                            <li class="nav-item">
-                              <a href="projetos.php" class="nav-link">Projetos Elétricos Industriais</a>
+                              <a href="projetos" class="nav-link">Projetos Elétricos Industriais</a>
                            </li>
                            <li class="nav-item">
-                              <a href="manutencoes.php" class="nav-link">Manutenções Preventivas e Corretivas</a>
+                              <a href="manutencoes" class="nav-link">Manutenções Preventivas e Corretivas</a>
                            </li>
                            <li class="nav-item">
-                              <a href="spda.php" class="nav-link">SPDA - Sistemas de Proteção Contra <br> Descargas Atmosféricas</a>
+                              <a href="spda" class="nav-link">SPDA - Sistemas de Proteção Contra <br> Descargas Atmosféricas</a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="energiaFotovoltaica" class="nav-link">Energia Fotovoltaica</a>
                            </li>
                         </ul>
                      </li>
                      <li class="nav-item">
-                        <a href="clientes.php" class="nav-link">Clientes</a>
+                        <a href="clientes" class="nav-link">Clientes</a>
                      </li>
                      <li class="nav-item">
                         <a href="#contact" class="nav-link">Contato</a>
